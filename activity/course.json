@@ -1,0 +1,38 @@
+{
+    "id": "6315959fe5065f050171c404",
+    "name": "SIA",
+    "description": "Course1",
+    "price": "1000",
+    "slots": "20",
+    "schedule": "MTWTHF 16:00 - 19:00",
+    "instructor": "Ms. Fernandez",
+    "isActive": "yes",
+    "enrollees": [
+        {
+            "id": "631596e6e5065f050171c43b",
+            "userId": "6315952de5065f050171c3ef",
+            "userName": "user1",
+            "isPaid": "yes",
+            "dateEnrolled": "09/05/2022"
+        }
+    ]
+}
+{
+    "id": "6315959fe5065f050171c407",
+    "name": "Networking",
+    "description": "Course2",
+    "price": "1000",
+    "slots": "20",
+    "schedule": "MTWTHF 8:00 - 9:30",
+    "instructor": "Ms. Santos",
+    "isActive": "yes",
+    "enrollees": [
+        {
+            "id": "631596e6e5065f050171c43e",
+            "userId": "6315952de5065f050171c3f2",
+            "userName": "user2",
+            "isPaid": "yes",
+            "dateEnrolled": "09/05/2022"
+        }
+    ]
+}

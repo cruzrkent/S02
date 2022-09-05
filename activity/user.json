@@ -1,0 +1,57 @@
+{
+    "id": "6315952de5065f050171c3ef",
+    "username": "user1",
+    "firstName": "Rigel Kent",
+    "lastName": "Cruz",
+    "email": "cruzrkent@gmail.com",
+    "password": "12345",
+    "mobileNumber": "09925584929",
+    "isAdmin":  "yes",
+    "enrollments": [
+        {
+            "id": "631596e6e5065f050171c43b",
+            "courseId": "6315959fe5065f050171c404",
+            "courseName": "SIA",
+            "isPaid": "yes",
+            "dateEnrolled": "09/05/2022"
+        }
+    ]
+}
+{
+    "id": "6315952de5065f050171c3f2",
+    "username": "user2",
+    "firstName": "Rhiane Kathleen",
+    "lastName": "Cruz",
+    "email": "kylie@gmail.com",
+    "password": "12345",
+    "mobileNumber": "09925584929",
+    "isAdmin":  "yes",
+    "enrollments": [
+        {
+            "id": "631596e6e5065f050171c43e",
+            "courseId": "6315959fe5065f050171c407",
+            "courseName": "Networking",
+            "isPaid": "yes",
+            "dateEnrolled": "09/05/2022"
+        }
+    ]
+}
+
+{
+    "id": "",
+    "userId": "631596e6e5065f050171c43b",
+    "userName": "user1",
+    "courseId": "6315959fe5065f050171c404",
+    "courseName": "SIA",
+    "isPaid": "yes",
+    "dateEnrolled": "09/05/2022"
+}
+{
+    "id": "",
+    "userId": "631596e6e5065f050171c43e",
+    "userName": "user2",
+    "courseId": "6315959fe5065f050171c407",
+    "courseName": "Networking",
+    "isPaid": "yes",
+    "dateEnrolled": "09/05/2022"
+}
